@@ -57,12 +57,3 @@ typings/
 # dotenv environment variables file
 .env
 
-# RAM
-
-.project
-
-.settings/
-.externalToolBuilders/
-
-**/*~
-

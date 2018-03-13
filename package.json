@@ -1,0 +1,25 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "probando",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon prueba.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.1.2",
+    "nodemon": "^1.12.1",
+    "webpack": "^3.9.1"
+  },
+  "dependencies": {
+    "atob": "^2.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.4",
+    "sleep": "^5.1.1"
+  }
+}
